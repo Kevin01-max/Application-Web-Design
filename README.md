@@ -1,6 +1,6 @@
 practica del Markdown
 
-*italic* or _italic_  
-**bold** or __bold__  
-***bold italic***  
-~~strikethrough~~
+italic *texto1* o _texto2_  
+bold o **negritas** o tambien __negritas2__  
+bold italic ***negritas con italic***  
+strikethrough ~~ultima en haber aprendido~~
